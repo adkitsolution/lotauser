@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010290045000",
+    "project_id": "lotarideapp",
+    "storage_bucket": "lotarideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010290045000:android:c867246420709d8c72e87d",
+        "android_client_info": {
+          "package_name": "com.lotaride.adk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBns3wLH7ZwEpjOBuwp3ANa26wJR9dANpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
